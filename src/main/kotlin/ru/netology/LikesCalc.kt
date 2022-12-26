@@ -1,3 +1,5 @@
+package ru.netology
+
 class LikesCalc {
     companion object {
         fun getPeopleString(likes: Int): String {
